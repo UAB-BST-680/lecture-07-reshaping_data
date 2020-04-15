@@ -36,9 +36,9 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE)
 
 Before starting these exercises, you should have a good understanding of 
 
-1. The [Derive Information with dplyr](https://rstudio.cloud/learn/primers/2.3) Primer.
+1. The [Tidy your data](https://rstudio.cloud/learn/primers/4.1) Primer.
 
-1. Chapter 5 of [R for Data Science](https://r4ds.had.co.nz/transform.html)
+1. Chapter 12.1 - 12.3 of [R for Data Science](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
 
 # Exercise 1
 
